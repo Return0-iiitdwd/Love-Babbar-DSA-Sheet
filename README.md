@@ -1,5 +1,5 @@
 # Love-Babbar-DSA-Sheet
-It contains solutions of problems in Love Babbar 450 Problems DSA Sheet.
+It contains solutions to the problems in Love Babbar 450 Problems DSA Sheet.
 
 ## Links <br/>
 [Sheet Link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) <br/> 
